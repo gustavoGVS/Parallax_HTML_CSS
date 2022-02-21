@@ -35,6 +35,7 @@ div:nth-of-type(2n) {
 }
 
 h1 {
+  padding: 2px;
   color: #818274;
   font-family: 'Redressed', cursive;
   font-weight: normal;
